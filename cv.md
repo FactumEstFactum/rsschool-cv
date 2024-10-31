@@ -10,4 +10,21 @@
 - Discord: [FactumEstFactum @FactumEstFactum](factumestfactum)  
 
 ### About Me  
-I want to be a Front-End Developer  
+I want and will become a front-end developer  
+
+### Skills  
+- HTML5 CSS3  
+- JavaScript Basic  
+- Git GitHub  
+- VS Code  
+- Photoshop Figma  
+
+### Code Example  
+```js  
+function greet() {  
+  return "hello world!"  
+}  
+```
+
+
+
