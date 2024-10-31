@@ -5,9 +5,9 @@
 ## Factum Est Factum  
 
 ### Contacts  
-- Email: [FactumEstFactum](Factumestfactum@proton.me)  
-- GitHub: [FactumEstFactum](https://github.com/FactumEstFactum)  
-- Discord: [FactumEstFactum @FactumEstFactum](factumestfactum)  
+- Email: Factumestfactum@proton.me  
+- GitHub: https://github.com/FactumEstFactum  
+- Discord: FactumEstFactum @FactumEstFactum  
 
 ### About Me  
 I want and will become a front-end developer  
@@ -27,8 +27,11 @@ function greet() {
 ```
 
 ### Experience  
-- Experience at electronics maintenance, IT system administration, programming in 1C, but not at FrontEnd  
-- First task from RSS [CV](https://FactumEstFactum.github.io/rsschool-cv/cv)  
+- Experience:
+    - electronics maintenance  
+    - IT system administration  
+    - programming in 1C  
+- First task from RSS: [CV](https://FactumEstFactum.github.io/rsschool-cv/cv)  
 
 ### Education  
 - University: Almaty University of Power Engineering and Telecommunications, Electronic engineer  
